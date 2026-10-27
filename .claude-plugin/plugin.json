@@ -1,0 +1,6 @@
+{
+  "name": "medoudoudoc",
+  "description": "Documentation illustrée pour une application web : guides en procédures pas à pas, captures d'écran annotées de repères numérotés (Playwright), conversion en documents Word soignés (page de garde, sommaire, figures).",
+  "version": "1.0.0",
+  "author": { "name": "mehdddou" }
+}

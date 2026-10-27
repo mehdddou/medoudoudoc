@@ -1,0 +1,12 @@
+{
+  "name": "medoudoudoc",
+  "description": "Skill medoudoudoc : documentation illustrée (procédures, captures annotées, documents Word)",
+  "owner": { "name": "mehdddou" },
+  "plugins": [
+    {
+      "name": "medoudoudoc",
+      "source": "./",
+      "description": "Produit une documentation professionnelle et illustrée pour une application web : guides en procédures pas à pas, captures d'écran annotées (Playwright), documents Word soignés."
+    }
+  ]
+}
