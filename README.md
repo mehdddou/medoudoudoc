@@ -1,6 +1,6 @@
 # medoudoudoc
 
-Skill pour **Claude Code** qui produit une documentation professionnelle et **illustrée** pour une application web :
+Skill pour **Claude Code** qui produit une documentation professionnelle et **illustrée** pour une application ou un site web :
 
 - des guides **Markdown** rédigés en procédures pas à pas (installation, utilisation, administration,
   sécurité / conformité, développeur), dont chaque libellé et paramètre est vérifié dans le code ;
